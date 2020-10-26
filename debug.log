@@ -1,0 +1,4 @@
+[1021/073743.327:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1021/150858.870:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1021/150858.919:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\20936105-acef-443c-826a-085e15bed622: The system cannot find the path specified. (0x3)
+[1021/151534.719:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0346c3ec-6fbb-473e-8b41-d489b87469f8: The system cannot find the path specified. (0x3)
